@@ -1,1 +1,3 @@
-## This subdirectory contains files for Force Sensing Resistors (FSR).
+### Materials regarding FSR
+
+This subdirectory contains files for Force Sensing Resistors (FSR).
