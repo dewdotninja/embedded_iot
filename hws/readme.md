@@ -1,1 +1,3 @@
-### This subdirectory contains notebooks to help you with the homework assignments
+### Homework Help
+
+This subdirectory contains notebooks to help you with the homework assignments
