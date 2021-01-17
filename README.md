@@ -7,3 +7,8 @@
 
 This is a place where students can find materials for my courses on embedded systems and IoT
 
+## Course materials
+
+### Lecture 0
+<br>Course Introduction
+[* Slides](https://drive.google.com/file/d/1XnlFtc-fcfZwx6CTDuuGg81CrwXkXjlJ/view?usp=sharing)
