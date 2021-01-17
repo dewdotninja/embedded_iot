@@ -14,6 +14,7 @@ This is a place where students can find materials for my courses on embedded sys
 <li /><a href="https://drive.google.com/file/d/1XnlFtc-fcfZwx6CTDuuGg81CrwXkXjlJ/view?usp=sharing" target=_blank>Slides</a>
 <li /><a href="https://drive.google.com/file/d/1cQ9LtRtOm9TD5LR1YBCy_t0dWqVYaU8x/view?usp=sharing" target=_blank>Video : Introduction to NETPIE 2020</a>
 </ul>
+
 ### Lecture 1 : Basic circuit analysis and simulation
 <ul>
 <li /><a href="https://drive.google.com/file/d/1BJ14zLY259hw0fgeub9WmZS1zZNS4LH_/view?usp=sharing" target=_blank>Slides</a>
