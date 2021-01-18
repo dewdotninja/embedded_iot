@@ -23,7 +23,7 @@ This is a place where students can find materials for my courses on embedded sys
 
 #### Video series : May the force be with you
 <ul>
-<li /><a href="https://drive.google.com/file/d/1BJ14zLY259hw0fgeub9WmZS1zZNS4LH_/view?usp=sharing" target=_blank>Video : FSR - construct a linear relationship between force and voltage</a> 
+<li /><a href="https://drive.google.com/file/d/1CkXYlQEiY24paO6hkoTwTkxp6OFyygOL/view?usp=sharing" target=_blank>Video : FSR - construct a linear relationship between force and voltage</a> 
 <li /><a href="https://drive.google.com/file/d/19UwQskfELpm0E94j0qV8MFV1Txg4-y8i/view?usp=sharing" target=_blank>Video : FSR - programming on ESP8266</a> 
 <li /><a href="https://drive.google.com/file/d/1CvIjZ3Suab5WXaI29MHGTMUC4i7QKU25/view?usp=sharing" target=_blank>Video : FST - make it an IoT</a>
 </ul>
