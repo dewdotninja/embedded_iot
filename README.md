@@ -5,7 +5,11 @@
 <img src="https://drive.google.com/uc?id=1hFLVQMM4k2ob4w5fgN8a_ueQ8IyVIpvn" width=700 alt="header"/>
 </p>
 
-This is a place where students can find materials for my courses on embedded systems and IoT
+<p />This is a place where IUP students can find materials for my courses on embedded systems and IoT
+<ul>
+<li /><b>01205479</b> Internet of Things for Electrial Engineering
+  <li /><b>01211421</b> Embedded Systems for Industial Control 
+</ul>
 
 ## Course materials
 
