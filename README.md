@@ -31,4 +31,6 @@ This is a place where students can find materials for my courses on embedded sys
 #### Supplement : Homework assignment help
 <ul>
 <li /><a href="https://drive.google.com/file/d/1P_CSrPb_DK1sx3-zJGA02jIwPf7gklmW/view?usp=sharing" target=_blank>Video : a guide to Jupyter notebook and Colab</a>
+<li /><a href="https://drive.google.com/file/d/1DieTKs91CKjrydrN6m2g9wC9a8GBkQ2z/view?usp=sharing" target=_blank>Video : Help with HW # 1</a>
+  
 </ul>
