@@ -42,4 +42,5 @@
 ### Lecture 2 : AC circuits & time varying signals
 <ul>
 <li /><a href="https://drive.google.com/file/d/1Jfw1Y34aLccKYPzxGnvMzA7_Zlw2hLf9/view?usp=sharing" target=_blank>Slides</a>
+<li /><a href="https://drive.google.com/file/d/1b_fZsARm93YElgIm_QFxEPdfLS7b0oUK/view?usp=sharing" target=_blank>Video : AC circuits & time-varying signal</a>  
 </ul>
