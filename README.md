@@ -38,3 +38,8 @@
 <li /><a href="https://drive.google.com/file/d/1DieTKs91CKjrydrN6m2g9wC9a8GBkQ2z/view?usp=sharing" target=_blank>Video : Help with HW # 1</a>
 <li />ESP8266 programs in the videos are provided in sensors/fsr   
 </ul>
+
+### Lecture 2 : AC circuits & time varying signals
+<ul>
+<li /><a href="https://drive.google.com/file/d/1Jfw1Y34aLccKYPzxGnvMzA7_Zlw2hLf9/view?usp=sharing" target=_blank>Slides</a>
+</ul>
