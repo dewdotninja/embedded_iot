@@ -36,6 +36,7 @@
 <ul>
 <li /><a href="https://drive.google.com/file/d/1P_CSrPb_DK1sx3-zJGA02jIwPf7gklmW/view?usp=sharing" target=_blank>Video : a guide to Jupyter notebook and Colab</a>
 <li /><a href="https://drive.google.com/file/d/1DieTKs91CKjrydrN6m2g9wC9a8GBkQ2z/view?usp=sharing" target=_blank>Video : Help with HW # 1</a>
+<li /><a href="https://github.com/dewdotninja/embedded_iot/blob/main/hws/HW1en_question.ipynb" target=_blank>Notebook for HW # 1 </a>
 <li />ESP8266 programs in the videos are provided in sensors/fsr   
 </ul>
 
@@ -48,4 +49,12 @@
 #### Video series : Passive LPF
 <ul>
 <li /><a href="https://drive.google.com/file/d/1DwC6TvkGfl8AOR0cSO8bbqjMdHKIEGgR/view?usp=sharing" target=_blank>Transfer function review</a> 
+<li /><a href="https://drive.google.com/file/d/16xMPKNkdxmELbJ89qvuAiM-6WBjmL8HQ/view?usp=sharing" target=_blank>passive LPF design</a> 
+<li /><a href="https://drive.google.com/file/d/1ZGSaN3Eutk5ubKhsT1fKJ188cGiw8baY/view?usp=sharing" target=_blank>Convert PWM output to analog with passive LPF</a>
+  
+</ul>
+
+#### Supplement
+<ul>
+<li /><a href="https://github.com/dewdotninja/embedded_iot/blob/main/hws/HW2en_question.ipynb" target=_blank>Notebook for HW # 2 </a>
 </ul>
