@@ -56,5 +56,7 @@
 
 #### Supplement
 <ul>
+<li /><a href="https://github.com/dewdotninja/embedded_iot/blob/main/lpf/LPF_design.ipynb" target=_blank>LPF design notebook</a>
 <li /><a href="https://github.com/dewdotninja/embedded_iot/blob/main/hws/HW2en_question.ipynb" target=_blank>Notebook for HW # 2 </a>
+  
 </ul>
