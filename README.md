@@ -60,3 +60,20 @@
 <li /><a href="https://github.com/dewdotninja/embedded_iot/blob/main/hws/HW2en_question.ipynb" target=_blank>Notebook for HW # 2 </a>
   
 </ul>
+
+### Lecture 3 : Op-amps and signal conditioning
+<ul>
+<li /><a href="https://drive.google.com/file/d/1LjtTE567VdI69g5lJG64eTQILgTwGUMw/view?usp=sharing" target=_blank>Slides</a>
+<li /><a href="https://drive.google.com/file/d/1DjJ7vUZ0xvIS0S0mFPKzRm_789v17t0o/view?usp=sharing" target=_blank>Supplement : LAG3-ESP32 board</a>
+</ul>
+
+#### Videos
+<ul>
+  <li /><a href="https://drive.google.com/file/d/19tURxP3Swyy5NhcnAvNFOjBpyIHoLwNc/view?usp=sharing" target=_blank>Op-amps and signal conditioning</a>
+  <li /><a href="https://drive.google.com/file/d/1JHx-PcxEE6-tWdxKBLiU2gm2hQKC5xUv/view?usp=sharing" target=_blank>Hint for HW 2.2</a>
+  <li /><a href="https://drive.google.com/file/d/1BsbLO_WlMwBR26Clp5Dzno7NpcVGXieb/view?usp=sharing" target=_blank>Cascaded-tank simulation using opamp and RC circuit</a>
+</ul>
+
+
+
+
