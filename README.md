@@ -74,6 +74,8 @@
   <li /><a href="https://drive.google.com/file/d/1BsbLO_WlMwBR26Clp5Dzno7NpcVGXieb/view?usp=sharing" target=_blank>Cascaded-tank simulation using opamp and RC circuit</a>
 </ul>
 
-
-
+#### Supplement
+<ul>
+<li /><a href="https://drive.google.com/file/d/16UIf94yhWQWUiqJWswHAr95yhEoa6G4Z/view?usp=sharing" target=_blank>How to modify Python code in a cell to function</a>
+</ul>
 
