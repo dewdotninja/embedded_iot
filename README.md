@@ -79,3 +79,12 @@
 <li /><a href="https://drive.google.com/file/d/16UIf94yhWQWUiqJWswHAr95yhEoa6G4Z/view?usp=sharing" target=_blank>How to modify Python code in a cell to function</a>
 </ul>
 
+## Course Supplement
+
+### NETPIE2020 Slides from NECTEC
+
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1_E_KkjthF7wQKPQSVDDp_sYRIuDU89sz/view?usp=sharing">Introducing NETPIE2020 Workshop</a>
+  <li /><a href="https://drive.google.com/file/d/1ukmvPsXzit8rgduX5Bs5k2JOtfyx7Mp9/view?usp=sharing">IIoT Course :IoT Theme</a>
+  <li /><a href="https://drive.google.com/file/d/1BjW-U1dIBDPtFgPzsjiHsPa43TUacYiZ/view?usp=sharing">IoT & NETPIE2020 Workshop Preparation</a>
+</ul>
