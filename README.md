@@ -97,7 +97,7 @@
   <li /><a href="https://drive.google.com/file/d/1BJgco0oxg_sU1rHRIHbF6-GcQpRWkp2Y/view?usp=sharing" target=_blank>Lab 2-7 : read from DHT sensor</a>
   <li /><a href="https://drive.google.com/file/d/1mcoZdOFbVQzNmv2muNxKkd4HlQYDGczw/view?usp=sharing" target=_blank>Lab 2-8 : OLED panel</a>
   <li /><a href="https://drive.google.com/file/d/1DFPPnipz8EXZUimK2XV_GmBljd3HKwCm/view?usp=sharing" target=_blank>Lab 2-9 : BH1750 light sensor</a>
-  <li /><a href="https://drive.google.com/file/d/1AEexRE5g-Bfo72Cr7K57jzq9dkbocu03/view?usp=sharing target=_blank>Lab 2-10 : NodeMCU WiFi connection</a>
+  <li /><a href="https://drive.google.com/file/d/1AEexRE5g-Bfo72Cr7K57jzq9dkbocu03/view?usp=sharing" target=_blank>Lab 2-10 : NodeMCU WiFi connection</a>
 
 </ul>
 <br><b>Note : </b>These Arduino programs are originally from chapter 2 of the Practical IoT Design and Implementation book. So the lab numbers have 2- prefix.
