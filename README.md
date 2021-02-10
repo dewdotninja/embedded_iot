@@ -77,14 +77,52 @@
 #### Supplement
 <ul>
 <li /><a href="https://drive.google.com/file/d/16UIf94yhWQWUiqJWswHAr95yhEoa6G4Z/view?usp=sharing" target=_blank>How to modify Python code in a cell to function</a>
+<li /><a href="https://drive.google.com/file/d/1XsyxuDFZGRb1uHUUHGPjO8OihwAEPHg7/view?fbclid=IwAR1BmO_sdtRmBeJMqZw20joQF0NN_XRO9wubrAguMX2kh2FQIgM9pPAgYEg" target=_blank>Signal Conditioning Basics using Op-amps</a>
 </ul>
+
+### Lecture 4 : Basic C programming with ESP8266 and Arduino IDE
+<ul>
+<li /><a href="https://drive.google.com/file/d/1-GwUI6C9axADxMd-1XofJCInfOgQ9x8q/view?usp=sharing" target=_blank>Slides</a>
+</ul>
+
+#### Videos
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1MxZMu_hacfBijNOM_8S-UzH6eEGunv7B/view?usp=sharing" target=_blank>Arduno IDE, ESP core and libary installation</a>
+  <li /><a href="https://drive.google.com/file/d/1sz6C1gTrAew3HvFLNHSl3wkK4mvBy7WI/view?usp=sharing" target=_blank>Lecture 4 Part I : Overview of ESP8266 and Arduino IDE</a>  
+  <li /><a href="https://drive.google.com/file/d/1e1NXf51fQOVSwMShl4XOdSy0heWHDpS2/view?usp=sharing" target=_blank>Lecture 4 Part II : Playing around with addmult.ino</a>
+  <li /><a href="https://drive.google.com/file/d/16r3s4-aanSCi4DvUaEclNjiV8hB6CpWU/view?usp=sharing" target=_blank>Lab 2-2 : analogWrite()</a>
+  <li /><a href="https://drive.google.com/file/d/1_kUG67qT1gi3YfJUaqnv3-bjyqGW6fKy/view?usp=sharing" target=_blank>Exercise 2 : Adjust LED brightness with VR</a>
+  <li /><a href="https://drive.google.com/file/d/1Bk590T_W3E6lptjfa9G0SSBw2mSqr7Jk/view?usp=sharing" target=_blank>Lab 2-4, 2-5 : digitalRead()</a>
+  <li /><a href="https://drive.google.com/file/d/1rYO6E9nIzmkpLdOnZvPG71VdgMenjw0X/view?usp=sharing" target=_blank>Lab 2-6 : using millis() instead of delay()</a>
+  <li /><a href="https://drive.google.com/file/d/1BJgco0oxg_sU1rHRIHbF6-GcQpRWkp2Y/view?usp=sharing" target=_blank>Lab 2-7 : read from DHT sensor</a>
+  <li /><a href="https://drive.google.com/file/d/1mcoZdOFbVQzNmv2muNxKkd4HlQYDGczw/view?usp=sharing" target=_blank>Lab 2-8 : OLED panel</a>
+  <li /><a href="https://drive.google.com/file/d/1DFPPnipz8EXZUimK2XV_GmBljd3HKwCm/view?usp=sharing" target=_blank>Lab 2-9 : BH1750 light sensor</a>
+  <li /><a href="https://drive.google.com/file/d/1AEexRE5g-Bfo72Cr7K57jzq9dkbocu03/view?usp=sharing target=_blank>Lab 2-10 : NodeMCU WiFi connection</a>
+
+</ul>
+<br><b>Note : </b>These Arduino programs are originally from chapter 2 of the Practical IoT Design and Implementation book. So the lab numbers have 2- prefix.
+
+#### Supplement
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1D-3CS7phqaNahr3NZ-8MgJtg3H6LHhZq/view?usp=sharing">Arduino progrqams</a> 
+  <li /><a href="https://drive.google.com/file/d/1OM-pkNfDgmZww5mQBcXj02ZtyLW8fWmi/view" target=_blank>Practical IoT Design and Implementation (Free Download Version)</a>
+</ul>
+
+
 
 ## Course Supplement
 
 ### NETPIE2020 Slides from NECTEC
+<br>Special thanks to Mr.Piyawat Jomsathan and Dr.Panita Pongpaibool
+National Electronics and Computer Technology Center (NECTEC)
 
 <ul>
   <li /><a href="https://drive.google.com/file/d/1_E_KkjthF7wQKPQSVDDp_sYRIuDU89sz/view?usp=sharing">Introducing NETPIE2020 Workshop</a>
   <li /><a href="https://drive.google.com/file/d/1ukmvPsXzit8rgduX5Bs5k2JOtfyx7Mp9/view?usp=sharing">IIoT Course :IoT Theme</a>
   <li /><a href="https://drive.google.com/file/d/1BjW-U1dIBDPtFgPzsjiHsPa43TUacYiZ/view?usp=sharing">IoT & NETPIE2020 Workshop Preparation</a>
+</ul>
+
+### my Control Systems Github
+<ul>
+  <li /><a href="https://github.com/dewdotninja/control_python">control_python</a>
 </ul>
