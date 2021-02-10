@@ -8,7 +8,7 @@
 <p />This is a place where IUP students can find materials for my courses on embedded systems and IoT
 <ul>
 <li /><b>01205479</b> Internet of Things for Electrial Engineering
-  <li /><b>01211421</b> Embedded Systems for Industial Control 
+  <li /><b>01211421</b> Embedded Systems for Industrial Control 
 </ul>
 
 ## Course materials
