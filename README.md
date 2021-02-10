@@ -7,7 +7,7 @@
 
 <p />This is a place where IUP students can find materials for my courses on embedded systems and IoT
 <ul>
-<li /><b>01205479</b> Internet of Things for Electrial Engineering
+<li /><b>01205479</b> Internet of Things for Electrical Engineering
   <li /><b>01211421</b> Embedded Systems for Industrial Control 
 </ul>
 
@@ -87,7 +87,7 @@
 
 #### Videos
 <ul>
-  <li /><a href="https://drive.google.com/file/d/1MxZMu_hacfBijNOM_8S-UzH6eEGunv7B/view?usp=sharing" target=_blank>Arduno IDE, ESP core and libary installation</a>
+  <li /><a href="https://drive.google.com/file/d/1MxZMu_hacfBijNOM_8S-UzH6eEGunv7B/view?usp=sharing" target=_blank>Arduino IDE, ESP core and library installation</a>
   <li /><a href="https://drive.google.com/file/d/1sz6C1gTrAew3HvFLNHSl3wkK4mvBy7WI/view?usp=sharing" target=_blank>Lecture 4 Part I : Overview of ESP8266 and Arduino IDE</a>  
   <li /><a href="https://drive.google.com/file/d/1e1NXf51fQOVSwMShl4XOdSy0heWHDpS2/view?usp=sharing" target=_blank>Lecture 4 Part II : Playing around with addmult.ino</a>
   <li /><a href="https://drive.google.com/file/d/16r3s4-aanSCi4DvUaEclNjiV8hB6CpWU/view?usp=sharing" target=_blank>Lab 2-2 : analogWrite()</a>
@@ -104,7 +104,7 @@
 
 #### Supplement
 <ul>
-  <li /><a href="https://drive.google.com/file/d/1D-3CS7phqaNahr3NZ-8MgJtg3H6LHhZq/view?usp=sharing">Arduino progrqams</a> 
+  <li /><a href="https://drive.google.com/file/d/1D-3CS7phqaNahr3NZ-8MgJtg3H6LHhZq/view?usp=sharing">Arduino programs</a> 
   <li /><a href="https://drive.google.com/file/d/1OM-pkNfDgmZww5mQBcXj02ZtyLW8fWmi/view" target=_blank>Practical IoT Design and Implementation (Free Download Version)</a>
 </ul>
 
