@@ -125,6 +125,12 @@
   <li /><a href="https://drive.google.com/file/d/1cVIZOE13YJPdIYanUkie5v7Y5qwz9SbQ/view?usp=sharing">Workshop 4 : publishing data from NodeMCU to NETPIE shadow</a>
 </ul>
 
+#### Supplement
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1JiuOumXnBYgVjCZKS-p4bArk9jxty7YA/view?usp=sharing">For Mac OS-X Big Sur user</a>
+</ul>
+  
+
 ## Course Supplement
 
 ### NETPIE2020 Slides from NECTEC
