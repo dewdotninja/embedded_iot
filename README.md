@@ -108,7 +108,21 @@
   <li /><a href="https://drive.google.com/file/d/1OM-pkNfDgmZww5mQBcXj02ZtyLW8fWmi/view" target=_blank>Practical IoT Design and Implementation (Free Download Version)</a>
 </ul>
 
+### Lecture 5 : Introduction to NETPIE 2020
 
+<ul>
+  <li />Use slides "Introducing NETPIE2020 Workshop" from NECTEC (provided below)
+  <li />It is quite mouthful to say "NETPIE 2020" every time. So from now, any mention of NETPIE without year refers to NETPIE 2020, not the previous version NETPIE 2015.
+</ul>
+
+#### Videos
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1m5AcKHslp1gExzOhiAU9rrDELccC84MY/view?usp=sharing">Introduction to NETPIE 2020 and MQTT protocol</a>
+  <li /><a href="https://drive.google.com/file/d/1Ac3nf9g13aS07FcrcZlFys9PxNa8FZPr/view?usp=sharing">NETPIE portal</a>
+  <li /><a href="https://drive.google.com/file/d/1WWnZd0CUOmpt9WcAQufKadv1pNDU078p/view?usp=sharing">Workshop 1 : simple MQTT communicaiton using MQTTBox</a>
+  <li /><a href="https://drive.google.com/file/d/1y9y0dRhh3CeedMFmlNETLMOkAjMHJrQJ/view?usp=sharing">Workshop 2 : connecting NodeMCU to NETPIE</a>
+  <li /><a href="https://drive.google.com/file/d/1xix2vnW0KCdQRxTPqEHyCXxxpTIfPYwu/view?usp=sharing">NETPIE device data management</a>
+  <li /><a href="https://drive.google.com/file/d/1cVIZOE13YJPdIYanUkie5v7Y5qwz9SbQ/view?usp=sharing">Workshop 4 : publishing data from NodeMCU to NETPIE shadow</a>
 
 ## Course Supplement
 
