@@ -123,6 +123,7 @@
   <li /><a href="https://drive.google.com/file/d/1y9y0dRhh3CeedMFmlNETLMOkAjMHJrQJ/view?usp=sharing">Workshop 2 : connecting NodeMCU to NETPIE</a>
   <li /><a href="https://drive.google.com/file/d/1xix2vnW0KCdQRxTPqEHyCXxxpTIfPYwu/view?usp=sharing">NETPIE device data management</a>
   <li /><a href="https://drive.google.com/file/d/1cVIZOE13YJPdIYanUkie5v7Y5qwz9SbQ/view?usp=sharing">Workshop 4 : publishing data from NodeMCU to NETPIE shadow</a>
+</ul>
 
 ## Course Supplement
 
