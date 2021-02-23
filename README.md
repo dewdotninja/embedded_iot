@@ -129,7 +129,23 @@
 <ul>
   <li /><a href="https://drive.google.com/file/d/1JiuOumXnBYgVjCZKS-p4bArk9jxty7YA/view?usp=sharing">For Mac OS-X Big Sur user</a>
 </ul>
+
+### Lecture 6 : Notification, monitoring, and storing data
+<ul>
+  <li />Use slides "Introducing NETPIE2020 Workshop" from NECTEC (provided below)
+  <li /><a href="https://how2electronics.com/dht11-humidity-temperature-nodemcu-thingspeak/">DHT11 Humidity Temperature Monitor with NodeMCU on ThingSpeak </a>
+</ul>
+
+#### Videos
+<ul>
+  <li /><a href="https://youtu.be/PMuxdHhqFJo">Line notification on NETPIE</a>
+  <li /><a href="https://drive.google.com/file/d/1BhxSdGpmIrcG0qEBf7bsoyF2MygmlurA/view?usp=sharing">Monitoring on NETPIE Freeboard</a>
+  <li /><a href="https://www.youtube.com/watch?v=jYjuxWUefhg">DHT11 & NodeMCU Tutorial || Humidity & Temperature Monitoring over Thingspeak (youtube video from How To Electronics)</a>
   
+</ul>
+
+
+
 
 ## Course Supplement
 
