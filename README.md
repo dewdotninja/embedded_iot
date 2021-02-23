@@ -133,7 +133,7 @@
 ### Lecture 6 : Notification, monitoring, and storing data
 <ul>
   <li />Use slides "Introducing NETPIE2020 Workshop" from NECTEC (provided below)
-  <li /><a href="https://how2electronics.com/dht11-humidity-temperature-nodemcu-thingspeak/">DHT11 Humidity Temperature Monitor with NodeMCU on ThingSpeak </a>
+  <li /><a href="https://how2electronics.com/dht11-humidity-temperature-nodemcu-thingspeak/">DHT11 Humidity Temperature Monitor with NodeMCU on ThingSpeak (article form How to Electronics)</a>
 </ul>
 
 #### Videos
