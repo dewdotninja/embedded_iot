@@ -133,14 +133,14 @@
 ### Lecture 6 : Notification, monitoring, and storing data
 <ul>
   <li />Use slides "Introducing NETPIE2020 Workshop" from NECTEC (provided below)
-  <li /><a href="https://how2electronics.com/dht11-humidity-temperature-nodemcu-thingspeak/">DHT11 Humidity Temperature Monitor with NodeMCU on ThingSpeak (article form How to Electronics)</a>
+  
 </ul>
 
 #### Videos
 <ul>
   <li /><a href="https://youtu.be/PMuxdHhqFJo">Line notification on NETPIE</a>
   <li /><a href="https://drive.google.com/file/d/1BhxSdGpmIrcG0qEBf7bsoyF2MygmlurA/view?usp=sharing">Monitoring on NETPIE Freeboard</a>
-  <li /><a href="https://www.youtube.com/watch?v=jYjuxWUefhg">DHT11 & NodeMCU Tutorial || Humidity & Temperature Monitoring over Thingspeak (youtube video from How To Electronics)</a>
+  <li /><a href="https://www.youtube.com/watch?v=AK4Lp1Ko0l8&t=478s">How to Use ThingSpeak with Arduino (youtube video from learnelectronics)</a>
   
 </ul>
 
