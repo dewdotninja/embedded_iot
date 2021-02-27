@@ -144,7 +144,8 @@
   <li /><a href="https://drive.google.com/file/d/1kvyhjSbJe7IZAh3GcZPX2hIAMub6t_rq/view?usp=sharing">Create a FeedView widget on NETPIE</a>
   <li /><a href="https://www.youtube.com/watch?v=AK4Lp1Ko0l8&t=478s">How to Use ThingSpeak with Arduino (youtube video from learnelectronics)</a>
   <li /><a href="https://drive.google.com/file/d/1XliNKSoWTJ5o1BSDizF7A3HKU2C2_UWY/view?usp=sharing">Write temperature, humidity, light data to ThingSpeak channel</a>
-  <li /><a href="https://youtu.be/7qqoqhDiPl0">Monitoring humidity, temperature, light on mobile with Blynk.</a>  
+  <li /><a href="https://youtu.be/7qqoqhDiPl0">Monitoring humidity, temperature, light on mobile with Blynk.</a> 
+  <li /><a href="https://youtu.be/1J1lYluQEwo">Connect and send sensor data to Thingsboard</a>
 </ul>
 
 
