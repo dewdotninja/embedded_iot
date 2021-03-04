@@ -78,6 +78,7 @@
 <ul>
 <li /><a href="https://drive.google.com/file/d/16UIf94yhWQWUiqJWswHAr95yhEoa6G4Z/view?usp=sharing" target=_blank>How to modify Python code in a cell to function</a>
 <li /><a href="https://drive.google.com/file/d/1XsyxuDFZGRb1uHUUHGPjO8OihwAEPHg7/view?fbclid=IwAR1BmO_sdtRmBeJMqZw20joQF0NN_XRO9wubrAguMX2kh2FQIgM9pPAgYEg" target=_blank>Signal Conditioning Basics using Op-amps</a>
+  <li /><a href="https://github.com/dewdotninja/embedded_iot/blob/main/supplement/level_shifter_design.ipynb" target=_blank>Level shifter design function</a>
 </ul>
 
 ### Lecture 4 : Basic C programming with ESP8266 and Arduino IDE
