@@ -149,7 +149,14 @@
   <li /><a href="https://youtu.be/1J1lYluQEwo">Connect and send sensor data to Thingsboard</a>
 </ul>
 
+### Workshop 1 : ESP32 basics
+<ul>
+  <li /><a href="https://drive.google.com/file/d/14I9x77LtPJvPwuoYE87_8L14wFj5h7he/view?usp=sharing">Slides</li>
+  <li /><a href="https://drive.google.com/file/d/1Alw3du6q_PxjgFT2c9du0CI-QhkZKibc/view?usp=sharing">Programs (.ZIP)</li>
+</ul>
 
+#### Videos
+(in progress)
 
 
 ## Course Supplement
