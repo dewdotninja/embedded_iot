@@ -162,6 +162,8 @@
   <li /><a href="https://drive.google.com/file/d/1RqZDKA8lSXkdOYlXYEFE-pTJ8B5Sm4-v/view?usp=sharing">WS1 : Lab 1.1 ESP32 PWM and external interrupt</a>
   <li /><a href="https://drive.google.com/file/d/1Sed82_JoMVSOw6pzD9WxExvOnhSV_Ryh/view?usp=sharing">WS1 : Lab 1.2 ESP32 timer </a>
   <li /><a href="https://drive.google.com/file/d/1m-yNSJ_0B9swmkne_0RTIr703n4CUCY9/view?usp=sharing">WS1 : Lab 1.4 Open-loop step response using command intepreter</a>
+  <li /><a href="https://drive.google.com/file/d/1leWWgugXb0cu78K0q1R9LKrZu1h46BMP/view?usp=sharing">WS1 : Lab 1.4 (NETPIE) Make it an IoT by connecting to NETPIE</a>
+
  </ul>
  
 ## Course Supplement
