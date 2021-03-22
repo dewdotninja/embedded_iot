@@ -166,6 +166,18 @@
 
  </ul>
  
+ ### Workshop 2 : FreeRTOS basics
+ <ul>
+  <li /><a href="https://drive.google.com/file/d/1jVAhEiadMSX8jveU-4jh12AEDHcwywe5/view?usp=sharing">Slides</li>
+  <li /><a href="https://drive.google.com/file/d/14F80rWPRY2KjavlvsxT8E9UJoxXC2HfN/view?usp=sharing">Programs (.ZIP)</li>
+</ul>
+
+#### Videos
+<ul>
+  <li /><a href="https://www.youtube.com/watch?v=K0r-IcMNchM">True multitasking with ESP32 using FreeRTOS</a>
+  <li /><a href="https://www.youtube.com/watch?v=hsHTmaYV294">Basic FreeRTOS usage </a>
+</ul>
+ 
 ## Course Supplement
 
 ### NETPIE2020 Slides from NECTEC
