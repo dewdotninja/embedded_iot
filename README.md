@@ -176,6 +176,7 @@
 <ul>
   <li /><a href="https://www.youtube.com/watch?v=K0r-IcMNchM">True multitasking with ESP32 using FreeRTOS</a>
   <li /><a href="https://www.youtube.com/watch?v=hsHTmaYV294">Basic FreeRTOS usage </a>
+  <li /><a href="https://youtu.be/IF4GuJvTh-U">PID controller implementation on ESP32/FreeRTOS and NETPIE 2020</a>
 </ul>
  
 ## Course Supplement
