@@ -149,6 +149,21 @@
   <li /><a href="https://youtu.be/1J1lYluQEwo">Connect and send sensor data to Thingsboard</a>
 </ul>
 
+### Lecture 7 : Discrete-time PID Implementation
+
+Notebooks from my control_python github
+<ul>
+  <li /><a href="https://github.com/dewdotninja/control_python/blob/main/ceb_m4.ipynb">Module 4 : PID control</a>
+  <li /><a href="https://github.com/dewdotninja/control_python/blob/main/ceb_m6.ipynb">Module 6: Discrete-time Control Systems</a>
+  <li /><a href="https://github.com/dewdotninja/control_python/blob/main/ceb_m7.ipynb">Module 7: Continuous to Discrete Conversion Methods</a>
+</ul>
+
+#### Videos
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1QkeOk_3j4ICrkydK13TOZ6RzFonfHlal/view?usp=sharing">From continuous-time PID to algorithm</a>
+</ul>
+
+
 ### Workshop 1 : ESP32 basics
 <ul>
   <li /><a href="https://drive.google.com/file/d/14I9x77LtPJvPwuoYE87_8L14wFj5h7he/view?usp=sharing">Slides</li>
