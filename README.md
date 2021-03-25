@@ -161,6 +161,8 @@ Notebooks from my control_python github
 #### Videos
 <ul>
   <li /><a href="https://drive.google.com/file/d/1QkeOk_3j4ICrkydK13TOZ6RzFonfHlal/view?usp=sharing">From continuous-time PID to algorithm</a>
+  <li /><a href="https://drive.google.com/file/d/1E4dA1vkYrGBOA-3wASna47nMszWPVypH/view?usp=sharing">An example on how to convert a PI controller to code</a>
+  
 </ul>
 
 
