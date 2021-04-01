@@ -184,6 +184,8 @@ Notebooks from my control_python github
  </ul>
  
  ### Workshop 2 : FreeRTOS basics
+ 
+ Create real-time multitasking IoT applications with ESP32 and FreeRTOS library.
  <ul>
   <li /><a href="https://drive.google.com/file/d/1jVAhEiadMSX8jveU-4jh12AEDHcwywe5/view?usp=sharing">Slides</li>
   <li /><a href="https://drive.google.com/file/d/14F80rWPRY2KjavlvsxT8E9UJoxXC2HfN/view?usp=sharing">Programs (.ZIP)</li>
@@ -194,6 +196,26 @@ Notebooks from my control_python github
   <li /><a href="https://www.youtube.com/watch?v=K0r-IcMNchM">True multitasking with ESP32 using FreeRTOS</a>
   <li /><a href="https://www.youtube.com/watch?v=hsHTmaYV294">Basic FreeRTOS usage </a>
   <li /><a href="https://youtu.be/IF4GuJvTh-U">PID controller implementation on ESP32/FreeRTOS and NETPIE 2020</a>
+</ul>
+ 
+### Workshop 3 : node-red
+
+For this workshop, another hardware named SGIoT (Signal Generator Internet of Things) is used. The board can generate 6 types of signals 
+and compute FFT algorithm simultaneously without losing performance by exploiting both cores of ESP32.
+
+<ul>
+  <li />Slides (working on it)
+  <li />Program (.ZIP) (coming soon)
+  <li /><a href="https://drive.google.com/file/d/1fhJsIPguEtOymbTkquLWGriCSkPAAjNE/view?usp=sharing">Earlier version (V.12.13.1)</a> of Node.js installer for Windows (easier to install node-red)
+</ul>
+
+#### Videos
+<ul>
+  <li />
+  <ul>Node.js and node-red installation videos. The command used is : <em>npm install -g --unsafe-perm node-red</em>
+    <li /><a href="https://drive.google.com/file/d/1OX5AOevkYBqFZ5s0nCbKQOGhQ9DW1wbh/view?usp=sharing">for Windows</a> 
+    <li /><a href="https://drive.google.com/file/d/1CuiaRJSod4BVu5zrKILiKZGT0pwLqJCs/view?usp=sharing">for Mac-OSX</a>
+  </ul>
 </ul>
  
 ## Course Supplement
