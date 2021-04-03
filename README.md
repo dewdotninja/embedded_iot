@@ -216,6 +216,7 @@ and compute FFT algorithm simultaneously without losing performance by exploitin
     <li /><a href="https://drive.google.com/file/d/1OX5AOevkYBqFZ5s0nCbKQOGhQ9DW1wbh/view?usp=sharing">for Windows</a> 
     <li /><a href="https://drive.google.com/file/d/1CuiaRJSod4BVu5zrKILiKZGT0pwLqJCs/view?usp=sharing">for Mac-OSX</a>
   </ul>
+  <li /><a href="https://youtu.be/MLha1sB63ZE">Introducing Signal Generator Internet of Things (SGIoT) hardware for workshop 3 </a>
 </ul>
  
 ## Course Supplement
