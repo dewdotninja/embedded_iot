@@ -165,12 +165,24 @@ Notebooks from my control_python github
   
 </ul>
 
+### Lecture 8 : IoT using node-red
+
+See workshop 3 for node-red installation
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1zmTMS_57E2wfMs9ALXXlJgiSwRbG1t7J/view?usp=sharing">Using node-red with NETPIE 2020 Slides</a>
+  <li /><a href="https://drive.google.com/file/d/1ROtYd5pP_0EniOlQSTy0kbVGyxcLH41W/view?usp=sharing">igr_msgupdate.ino</a>
+</ul>
+
+#### Videos
+<ul>
+  <li /><a href="https://youtu.be/ul2AA0dQsjo">IoT with NETPIE2020 and node-red (part 1)</a>
+</ul>
 
 ### Workshop 1 : ESP32 basics
 <ul>
-  <li /><a href="https://drive.google.com/file/d/14I9x77LtPJvPwuoYE87_8L14wFj5h7he/view?usp=sharing">Slides</li>
-  <li /><a href="https://drive.google.com/file/d/1Alw3du6q_PxjgFT2c9du0CI-QhkZKibc/view?usp=sharing">Programs (.ZIP)</li>
-  <li /><a href="https://github.com/dewdotninja/embedded_iot/blob/main/supplement/plotolresp.ipynb">Notebook to plot open-loop response from Lab 1.4</li>
+  <li /><a href="https://drive.google.com/file/d/14I9x77LtPJvPwuoYE87_8L14wFj5h7he/view?usp=sharing">Slides</a>
+  <li /><a href="https://drive.google.com/file/d/1Alw3du6q_PxjgFT2c9du0CI-QhkZKibc/view?usp=sharing">Programs (.ZIP)</a>
+  <li /><a href="https://github.com/dewdotninja/embedded_iot/blob/main/supplement/plotolresp.ipynb">Notebook to plot open-loop response from Lab 1.4</a>
 </ul>
 
 #### Videos
@@ -187,8 +199,8 @@ Notebooks from my control_python github
  
  Create real-time multitasking IoT applications with ESP32 and FreeRTOS library.
  <ul>
-  <li /><a href="https://drive.google.com/file/d/1jVAhEiadMSX8jveU-4jh12AEDHcwywe5/view?usp=sharing">Slides</li>
-  <li /><a href="https://drive.google.com/file/d/14F80rWPRY2KjavlvsxT8E9UJoxXC2HfN/view?usp=sharing">Programs (.ZIP)</li>
+  <li /><a href="https://drive.google.com/file/d/1jVAhEiadMSX8jveU-4jh12AEDHcwywe5/view?usp=sharing">Slides</a>
+  <li /><a href="https://drive.google.com/file/d/14F80rWPRY2KjavlvsxT8E9UJoxXC2HfN/view?usp=sharing">Programs (.ZIP)</a>
 </ul>
 
 #### Videos
