@@ -177,6 +177,7 @@ See workshop 3 for node-red installation
 <ul>
   <li /><a href="https://youtu.be/ul2AA0dQsjo">IoT with NETPIE2020 and node-red (part I)</a>
   <li /><a href="https://youtu.be/KsbOgSMy5QU">IoT with NETPIE2020 and node-red (part II)</a>
+  <li /><a href="https://youtu.be/7j-oax8uGxY">IoT with NETPIE2020 and node-red (part III)</a>
 </ul>
 
 ### Workshop 1 : ESP32 basics
