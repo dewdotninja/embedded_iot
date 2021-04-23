@@ -232,6 +232,7 @@ and compute FFT algorithm simultaneously without losing performance by exploitin
   </ul>
   <li /><a href="https://youtu.be/MLha1sB63ZE">Introducing Signal Generator Internet of Things (SGIoT) hardware for workshop 3 </a>
   <li /><a href="https://youtu.be/ZF8TV9_Lo74">Commanding SGIoT from node-red</a>
+  <li /><a href="https://youtu.be/f55ESNjWNDI">Completer node-red-dashboard for SGIoT</a>
 </ul>
  
 ## Course Supplement
