@@ -218,8 +218,8 @@ For this workshop, another hardware named SGIoT (Signal Generator Internet of Th
 and compute FFT algorithm simultaneously without losing performance by exploiting both cores of ESP32.
 
 <ul>
-  <li />Slides (working on it)
-  <li />Program (.ZIP) (coming soon)
+  <li /><a href="https://drive.google.com/file/d/1TgeXG7XRO6eQgrDdYiqdj2HRubvwL3YX/view?usp=sharing">Slides</a>
+  <li /><a href="https://drive.google.com/file/d/1vhhvCTeIwmnf33Au-YGois7uetkS4YcA/view?usp=sharing">Software (.zip)</a>
   <li /><a href="https://drive.google.com/file/d/1fhJsIPguEtOymbTkquLWGriCSkPAAjNE/view?usp=sharing">Earlier version (V.12.13.1)</a> of Node.js installer for Windows (easier to install node-red)
 </ul>
 
