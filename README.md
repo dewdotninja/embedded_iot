@@ -180,6 +180,11 @@ See workshop 3 for node-red installation
   <li /><a href="https://youtu.be/7j-oax8uGxY">IoT with NETPIE2020 and node-red (part III)</a>
 </ul>
 
+### Lecture 9 : IoT development on Raspberry Pi
+<ul>
+  <li /><a href="https://drive.google.com/file/d/1l15mTDoudg74Ny7PrDLlvuEKLl0s64Xw/view?usp=sharing">IoT developoment on Raspberry Pi with NETPIE2020 slides</a>
+</ul>
+
 ### Workshop 1 : ESP32 basics
 <ul>
   <li /><a href="https://drive.google.com/file/d/14I9x77LtPJvPwuoYE87_8L14wFj5h7he/view?usp=sharing">Slides</a>
