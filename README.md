@@ -242,6 +242,13 @@ and compute FFT algorithm simultaneously without losing performance by exploitin
  
 ## Course Supplement
 
+### Micropython development on ESP32
+
+#### Videos
+<ul>
+  <li /><a href="https://youtu.be/qHRnWYduEy4">How to set up Thonny for ESP32 micropython development</a>
+</ul>
+
 ### NETPIE2020 Slides from NECTEC
 <br>Special thanks to Mr.Piyawat Jomsathan and Dr.Panita Pongpaibool
 <br>National Electronics and Computer Technology Center (NECTEC)
