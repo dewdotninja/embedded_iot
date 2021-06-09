@@ -247,6 +247,7 @@ and compute FFT algorithm simultaneously without losing performance by exploitin
 #### Videos
 <ul>
   <li /><a href="https://youtu.be/qHRnWYduEy4">How to set up Thonny for ESP32 micropython development</a>
+  <li /><a href="https://youtu.be/hJwfbbsCZRw">Using ESP32 micropython with NETPIE2020 : DHT sensor monitoring</a>
 </ul>
 
 ### NETPIE2020 Slides from NECTEC
