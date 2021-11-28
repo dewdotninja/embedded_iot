@@ -194,11 +194,11 @@ See workshop 3 for node-red installation
 
 #### Videos
 <ul>
-  <li /><a href="https://drive.google.com/file/d/1pajUXtmweKW68fniycyT0faSBnSiGIxB/view?usp=sharing">WS1 : Overview </a>
-  <li /><a href="https://drive.google.com/file/d/1RqZDKA8lSXkdOYlXYEFE-pTJ8B5Sm4-v/view?usp=sharing">WS1 : Lab 1.1 ESP32 PWM and external interrupt</a>
-  <li /><a href="https://drive.google.com/file/d/1Sed82_JoMVSOw6pzD9WxExvOnhSV_Ryh/view?usp=sharing">WS1 : Lab 1.2 ESP32 timer </a>
-  <li /><a href="https://drive.google.com/file/d/1m-yNSJ_0B9swmkne_0RTIr703n4CUCY9/view?usp=sharing">WS1 : Lab 1.4 Open-loop step response using command intepreter</a>
-  <li /><a href="https://drive.google.com/file/d/1leWWgugXb0cu78K0q1R9LKrZu1h46BMP/view?usp=sharing">WS1 : Lab 1.4 (NETPIE) Make it an IoT by connecting to NETPIE</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ERpEhVAksGlIuONb_aeGEqwB5lyIPRZNRqqYMQTwrFHElQ?e=eA4Z4o">WS1 : Overview </a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EUuxGx8udbVAnNRvn8_rru8BmtHcBJPyqGanXJKAF4Dwsw?e=q2Pevz">WS1 : Lab 1.1 ESP32 PWM and external interrupt</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ESfXwJccG3tIj3jfTxB6ZwAB9mSisHrt3hVEaud_ox6Zgw?e=LG52qd">WS1 : Lab 1.2 ESP32 timer </a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EWM0Qfb1GVBNoeUoPDzwpbkBbLvgJVIKksfb-1VRbsl1dg?e=pnv7gd">WS1 : Lab 1.4 Open-loop step response using command intepreter</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EUSKu5L62itOv_-3VbOMneEBbGieW-5LP7cEAlb_cuO8Bw?e=bSmF4u">WS1 : Lab 1.4 (NETPIE) Make it an IoT by connecting to NETPIE</a>
 
  </ul>
  
@@ -232,8 +232,8 @@ and compute FFT algorithm simultaneously without losing performance by exploitin
 <ul>
   <li />
   <ul>Node.js and node-red installation videos. The command used is : <em>npm install -g --unsafe-perm node-red</em>
-    <li /><a href="https://drive.google.com/file/d/1OX5AOevkYBqFZ5s0nCbKQOGhQ9DW1wbh/view?usp=sharing">for Windows</a> 
-    <li /><a href="https://drive.google.com/file/d/1CuiaRJSod4BVu5zrKILiKZGT0pwLqJCs/view?usp=sharing">for Mac-OSX</a>
+    <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EXjsTCIyJqtHiXEszlr6q_cBP1t_uFZ57Yt828PAcpL2cA?e=1s8gvc">for Windows</a> 
+    <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EWTY_yG9waZFjnILEZcEnI4BYgH5laKt6GuD2Ig76MdAWA?e=DB4vjW">for Mac-OSX</a>
   </ul>
   <li /><a href="https://youtu.be/MLha1sB63ZE">Introducing Signal Generator Internet of Things (SGIoT) hardware for workshop 3 </a>
   <li /><a href="https://youtu.be/ZF8TV9_Lo74">Commanding SGIoT from node-red</a>
