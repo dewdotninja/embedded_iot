@@ -96,7 +96,7 @@
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ETPgV-mbbQlOgMD6jUI-c-0B5JvnbmVVZ3MVZjrmbWwKkA?e=lWLWh6" target=_blank>Lab 2-4, 2-5 : digitalRead()</a>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EWJcaBz7Ji5InmB8bqcAmzEBsC79kJl_pzVBTbHBLPk2Tw?e=jji74W" target=_blank>Lab 2-6 : using millis() instead of delay()</a>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EcUJb_FGQIROq0EamERKJIIBTxM8L925O2WcUadu6p2gJQ?e=RiHJ6T" target=_blank>Lab 2-7 : read from DHT sensor</a>
-  <li /><a href="https://drive.google.com/file/d/1mcoZdOFbVQzNmv2muNxKkd4HlQYDGczw/view?usp=sharing" target=_blank>Lab 2-8 : OLED panel</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/Ea8wKcpahQJJv8lOkp0tNd0BXLdXr4vJ0_0ov7KQ1pYzQQ?e=ZtZuJL" target=_blank>Lab 2-8 : OLED panel</a>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EcxxAKPdq2tIsYkkixOG_10BB6eB1c8-tIQLDdeANiHetA?e=t2JOy1" target=_blank>Lab 2-9 : BH1750 light sensor</a>
   <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EbsgTubo0wtPgEyEPGsAR_YBIZHsGhi8qVKdxRKchz45DA?e=0tiWOH" target=_blank>Lab 2-10 : NodeMCU WiFi connection</a>
 
@@ -118,17 +118,17 @@
 
 #### Videos
 <ul>
-  <li /><a href="https://drive.google.com/file/d/1m5AcKHslp1gExzOhiAU9rrDELccC84MY/view?usp=sharing">Introduction to NETPIE 2020 and MQTT protocol</a>
-  <li /><a href="https://drive.google.com/file/d/1Ac3nf9g13aS07FcrcZlFys9PxNa8FZPr/view?usp=sharing">NETPIE portal</a>
-  <li /><a href="https://drive.google.com/file/d/1WWnZd0CUOmpt9WcAQufKadv1pNDU078p/view?usp=sharing">Workshop 1 : simple MQTT communicaiton using MQTTBox</a>
-  <li /><a href="https://drive.google.com/file/d/1y9y0dRhh3CeedMFmlNETLMOkAjMHJrQJ/view?usp=sharing">Workshop 2 : connecting NodeMCU to NETPIE</a>
-  <li /><a href="https://drive.google.com/file/d/1xix2vnW0KCdQRxTPqEHyCXxxpTIfPYwu/view?usp=sharing">NETPIE device data management</a>
-  <li /><a href="https://drive.google.com/file/d/1cVIZOE13YJPdIYanUkie5v7Y5qwz9SbQ/view?usp=sharing">Workshop 4 : publishing data from NodeMCU to NETPIE shadow</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EQxgm3T_pNFOhU7zVxmjK34BoViqcsLKm625lMVh-xjblg?e=CMEe7U">Introduction to NETPIE 2020 and MQTT protocol</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EZZJhwOhVtlDkf_z2ew4DlkBgj2__SvBrchu9yZOqVrVTw?e=vSvemw">NETPIE portal</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EXx1Lm_i8DJLvLrNQ3PInToBCr4mY00k0JStbYU3LwRDvg?e=zfeoMw">Workshop 1 : simple MQTT communicaiton using MQTTBox</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EePRaOb3DMBLn3UGV3XRAiQBeeorGMQ5FWnG6sXesr_I7w?e=IidQnA">Workshop 2 : connecting NodeMCU to NETPIE</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ER3NMXn3LWJGkZQcbwDOdQUB8H7453S9LO6B5rKaTjm2Bw?e=KB0eVZ">NETPIE device data management</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EaLcRVOycPhLr-WdzrAn180B_8OASYt3mTDxMcKMuEmabg?e=x4FrjX">Workshop 4 : publishing data from NodeMCU to NETPIE shadow</a>
 </ul>
 
 #### Supplement
 <ul>
-  <li /><a href="https://drive.google.com/file/d/1JiuOumXnBYgVjCZKS-p4bArk9jxty7YA/view?usp=sharing">For Mac OS-X Big Sur user</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EZ2lf9-MyvhNhVVKPEJEEp0BsKegztPsr5TWtTHeThB5Dg?e=qHcl0D">For Mac OS-X Big Sur user</a>
 </ul>
 
 ### Lecture 6 : Notification, monitoring, and storing data
