@@ -16,26 +16,26 @@
 ### Lecture 0 : Course Introduction
 <ul>
 <li /><a href="https://drive.google.com/file/d/1XnlFtc-fcfZwx6CTDuuGg81CrwXkXjlJ/view?usp=sharing" target=_blank>Slides</a>
-<li /><a href="https://drive.google.com/file/d/1cQ9LtRtOm9TD5LR1YBCy_t0dWqVYaU8x/view?usp=sharing" target=_blank>Video : Introduction to NETPIE 2020</a>
+<li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EbCY2fix6cpPtlF7W3CutmIB0t1Aw7jpkF2GbBEzmihgdw?e=vFMQ8R" target=_blank>Video : Introduction to NETPIE 2020</a>
 </ul>
 
 ### Lecture 1 : Basic circuit analysis
 <ul>
 <li /><a href="https://drive.google.com/file/d/1BJ14zLY259hw0fgeub9WmZS1zZNS4LH_/view?usp=sharing" target=_blank>Slides</a>
-<li /><a href="https://drive.google.com/file/d/1NiLv8U8hjEvTXQgC8owG0IoYKrGT-PCh/view?usp=sharing" target=_blank>Video : Basic circuit analysis</a> 
+<li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EbPsMNCOS21NhXk1xYAMEbIBfsAbutotD-O5IwGx5CNjgQ?e=iEMgh2" target=_blank>Video : Basic circuit analysis</a> 
 </ul>
 
 #### Video series : May the force be with you
 <ul>
-<li /><a href="https://drive.google.com/file/d/1CkXYlQEiY24paO6hkoTwTkxp6OFyygOL/view?usp=sharing" target=_blank>Video : FSR - construct a linear relationship between force and voltage</a> 
-<li /><a href="https://drive.google.com/file/d/19UwQskfELpm0E94j0qV8MFV1Txg4-y8i/view?usp=sharing" target=_blank>Video : FSR - programming on ESP8266</a> 
-<li /><a href="https://drive.google.com/file/d/1CvIjZ3Suab5WXaI29MHGTMUC4i7QKU25/view?usp=sharing" target=_blank>Video : FST - make it an IoT</a>
+<li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EcQ-DsheOnpMhJLOAgMfXbMBpzVvWrFY2AxkPaIUuF1QBQ?e=3cxb2R" target=_blank>Video : FSR - construct a linear relationship between force and voltage</a> 
+<li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ET9C-s4gB-xLhsQB5G_3Ia4B7d3ajdJA7qaIBWc-pYS8YA?e=zq1HpU" target=_blank>Video : FSR - programming on ESP8266</a> 
+<li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EQRM39qx7EBAgZbLoxHSFGsBQvtqj9cMKP3j9Du2wI0P-w?e=J7tUEc" target=_blank>Video : FSR - make it an IoT</a>
 </ul>
 
 #### Supplement : Homework assignment help
 <ul>
-<li /><a href="https://drive.google.com/file/d/1P_CSrPb_DK1sx3-zJGA02jIwPf7gklmW/view?usp=sharing" target=_blank>Video : a guide to Jupyter notebook and Colab</a>
-<li /><a href="https://drive.google.com/file/d/1DieTKs91CKjrydrN6m2g9wC9a8GBkQ2z/view?usp=sharing" target=_blank>Video : Help with HW # 1</a>
+<li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EafHCrp_KIdKvS9fv_vQMwEB_tAG6JqAd0G-HBmWfrjADg?e=Q1J6hb" target=_blank>Video : a guide to Jupyter notebook and Colab</a>
+<li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EZ6fv4jeZudBhQzaxSxkJpYBPrhLEzRKkZk6ewL1huWaJw?e=E11afk" target=_blank>Video : Help with HW # 1</a>
 <li /><a href="https://github.com/dewdotninja/embedded_iot/blob/main/hws/HW1en_question.ipynb" target=_blank>Notebook for HW # 1 </a>
 <li />ESP8266 programs in the videos are provided in sensors/fsr   
 </ul>
