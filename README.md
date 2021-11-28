@@ -43,14 +43,14 @@
 ### Lecture 2 : AC circuits & time varying signals
 <ul>
 <li /><a href="https://drive.google.com/file/d/1Jfw1Y34aLccKYPzxGnvMzA7_Zlw2hLf9/view?usp=sharing" target=_blank>Slides</a>
-<li /><a href="https://drive.google.com/file/d/1b_fZsARm93YElgIm_QFxEPdfLS7b0oUK/view?usp=sharing" target=_blank>Video : AC circuits & time-varying signal</a>  
+<li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EX4Hdot4wWdLhCDz3cj93aYBXftKVcycNMBHRpyg2Ro30g?e=o9t7Ki" target=_blank>Video : AC circuits & time-varying signal</a>  
 </ul>
 
 #### Video series : Passive LPF
 <ul>
-<li /><a href="https://drive.google.com/file/d/1DwC6TvkGfl8AOR0cSO8bbqjMdHKIEGgR/view?usp=sharing" target=_blank>Transfer function review</a> 
-<li /><a href="https://drive.google.com/file/d/16xMPKNkdxmELbJ89qvuAiM-6WBjmL8HQ/view?usp=sharing" target=_blank>passive LPF design</a> 
-<li /><a href="https://drive.google.com/file/d/1ZGSaN3Eutk5ubKhsT1fKJ188cGiw8baY/view?usp=sharing" target=_blank>Convert PWM output to analog with passive LPF</a>
+<li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EY11USerNB5GvVH3oAIXK_oBMhCyJuLO6FWI8i6ERzU9bg?e=OtknOt" target=_blank>Transfer function review</a> 
+<li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EcgQCvCLdD1GnopOwhDdNnEBKWyojQJgeQ8IR1Wub27kjw?e=rlJ09U" target=_blank>passive LPF design</a> 
+<li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EX3nuXUDhWVNhceqyLIC6XgBr1jPnh1jv4lnYOsteOU9fA?e=dkNmK4" target=_blank>Convert PWM output to analog with passive LPF</a>
   
 </ul>
 
@@ -69,14 +69,14 @@
 
 #### Videos
 <ul>
-  <li /><a href="https://drive.google.com/file/d/19tURxP3Swyy5NhcnAvNFOjBpyIHoLwNc/view?usp=sharing" target=_blank>Op-amps and signal conditioning</a>
-  <li /><a href="https://drive.google.com/file/d/1JHx-PcxEE6-tWdxKBLiU2gm2hQKC5xUv/view?usp=sharing" target=_blank>Hint for HW 2.2</a>
-  <li /><a href="https://drive.google.com/file/d/1BsbLO_WlMwBR26Clp5Dzno7NpcVGXieb/view?usp=sharing" target=_blank>Cascaded-tank simulation using opamp and RC circuit</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EfdkwwGv0EhIlT7O3L-I1UYBRqsTkDkrNcR-GAZSkUCWhQ?e=5mC0fQ" target=_blank>Op-amps and signal conditioning</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/Ee2GP1mlUE5Cnyjinuhdz7IB4JxgHv5Hrp23o69WofmXsA?e=pzUYfx" target=_blank>Hint for HW 2.2</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EeWOQ9B-sTJPjzCG2JnNJdUB_dd6XmPMJAGDYGyXQEZ67g?e=pVQnHD" target=_blank>Cascaded-tank simulation using opamp and RC circuit</a>
 </ul>
 
 #### Supplement
 <ul>
-<li /><a href="https://drive.google.com/file/d/16UIf94yhWQWUiqJWswHAr95yhEoa6G4Z/view?usp=sharing" target=_blank>How to modify Python code in a cell to function</a>
+<li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EZtsXuQ8POhBlL_PhS8OL2cBu4iRxmehblPqxzNwzyE7GA?e=nx0mVL" target=_blank>Video : How to modify Python code in a cell to function</a>
 <li /><a href="https://drive.google.com/file/d/1XsyxuDFZGRb1uHUUHGPjO8OihwAEPHg7/view?fbclid=IwAR1BmO_sdtRmBeJMqZw20joQF0NN_XRO9wubrAguMX2kh2FQIgM9pPAgYEg" target=_blank>Signal Conditioning Basics using Op-amps</a>
   <li /><a href="https://github.com/dewdotninja/embedded_iot/blob/main/supplement/level_shifter_design.ipynb" target=_blank>Level shifter design function</a>
 </ul>
