@@ -141,10 +141,10 @@
 #### Videos
 <ul>
   <li /><a href="https://youtu.be/PMuxdHhqFJo">Line notification on NETPIE</a>
-  <li /><a href="https://drive.google.com/file/d/1BhxSdGpmIrcG0qEBf7bsoyF2MygmlurA/view?usp=sharing">Monitoring on NETPIE Freeboard</a>
-  <li /><a href="https://drive.google.com/file/d/1kvyhjSbJe7IZAh3GcZPX2hIAMub6t_rq/view?usp=sharing">Create a FeedView widget on NETPIE</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EbfixCwH0MNPjAsHn_GrWbMBOxgFNAGtFsyoJFuVGqW5uQ?e=QPYPix">Monitoring on NETPIE Freeboard</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EQnfz8ee5HVDq7glWFJ470YBz4CmqJk26RbCfp-MZVpjdQ?e=g6RYIe">Create a FeedView widget on NETPIE</a>
   <li /><a href="https://www.youtube.com/watch?v=AK4Lp1Ko0l8&t=478s">How to Use ThingSpeak with Arduino (youtube video from learnelectronics)</a>
-  <li /><a href="https://drive.google.com/file/d/1XliNKSoWTJ5o1BSDizF7A3HKU2C2_UWY/view?usp=sharing">Write temperature, humidity, light data to ThingSpeak channel</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EX8p_Z25f6dPmLUKuF14YnIBP11Q77yVrlSCAp6QeEmHpw?e=5TGBDx">Write temperature, humidity, light data to ThingSpeak channel</a>
   <li /><a href="https://youtu.be/7qqoqhDiPl0">Monitoring humidity, temperature, light on mobile with Blynk.</a> 
   <li /><a href="https://youtu.be/1J1lYluQEwo">Connect and send sensor data to Thingsboard</a>
 </ul>
@@ -160,8 +160,8 @@ Notebooks from my control_python github
 
 #### Videos
 <ul>
-  <li /><a href="https://drive.google.com/file/d/1QkeOk_3j4ICrkydK13TOZ6RzFonfHlal/view?usp=sharing">From continuous-time PID to algorithm</a>
-  <li /><a href="https://drive.google.com/file/d/1E4dA1vkYrGBOA-3wASna47nMszWPVypH/view?usp=sharing">An example on how to convert a PI controller to code</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/Ec0ZXQMRsahErCKMpf_XC_cBT4nRi28j9g6OsQcMOScj_g?e=7iKXNM">From continuous-time PID to algorithm</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EfceLlPfjJlCgl6SNabYOiQBy0kTK9bvClF1HGfhVreEVA?e=jBRCfa">An example on how to convert a PI controller to code</a>
   
 </ul>
 
