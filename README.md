@@ -88,17 +88,17 @@
 
 #### Videos
 <ul>
-  <li /><a href="https://drive.google.com/file/d/1MxZMu_hacfBijNOM_8S-UzH6eEGunv7B/view?usp=sharing" target=_blank>Arduino IDE, ESP core and library installation</a>
-  <li /><a href="https://drive.google.com/file/d/1sz6C1gTrAew3HvFLNHSl3wkK4mvBy7WI/view?usp=sharing" target=_blank>Lecture 4 Part I : Overview of ESP8266 and Arduino IDE</a>  
-  <li /><a href="https://drive.google.com/file/d/1e1NXf51fQOVSwMShl4XOdSy0heWHDpS2/view?usp=sharing" target=_blank>Lecture 4 Part II : Playing around with addmult.ino</a>
-  <li /><a href="https://drive.google.com/file/d/16r3s4-aanSCi4DvUaEclNjiV8hB6CpWU/view?usp=sharing" target=_blank>Lab 2-2 : analogWrite()</a>
-  <li /><a href="https://drive.google.com/file/d/1_kUG67qT1gi3YfJUaqnv3-bjyqGW6fKy/view?usp=sharing" target=_blank>Exercise 2 : Adjust LED brightness with VR</a>
-  <li /><a href="https://drive.google.com/file/d/1Bk590T_W3E6lptjfa9G0SSBw2mSqr7Jk/view?usp=sharing" target=_blank>Lab 2-4, 2-5 : digitalRead()</a>
-  <li /><a href="https://drive.google.com/file/d/1rYO6E9nIzmkpLdOnZvPG71VdgMenjw0X/view?usp=sharing" target=_blank>Lab 2-6 : using millis() instead of delay()</a>
-  <li /><a href="https://drive.google.com/file/d/1BJgco0oxg_sU1rHRIHbF6-GcQpRWkp2Y/view?usp=sharing" target=_blank>Lab 2-7 : read from DHT sensor</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ER3ChIK6SBtMpTAWQFxRybgB3dUJ922khskjthJ6D-pk5w?e=IGV5LV" target=_blank>Arduino IDE, ESP core and library installation</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ETNrX_5KL9FLtC1rb42CxnoBG45TEHZlSevKFgCBakJ30Q?e=ylDyBo" target=_blank>Lecture 4 Part I : Overview of ESP8266 and Arduino IDE</a>  
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EdpcmxP-BZtHv5jvxYQnMHoBE-2F5DGcocC0p4HSLpM9Wg?e=Kr34yX" target=_blank>Lecture 4 Part II : Playing around with addmult.ino</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ETA-SEtVU5BFqo_goKCc0hIB_SKBB8_DM7Eqe230Zer37w?e=tWWe6J" target=_blank>Lab 2-2 : analogWrite()</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EYtB5RmBU6BOqmzXiABtnnwBfhBsZYezBsZ8ff4LYmowCg?e=yipis1" target=_blank>Exercise 2 : Adjust LED brightness with VR</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/ETPgV-mbbQlOgMD6jUI-c-0B5JvnbmVVZ3MVZjrmbWwKkA?e=lWLWh6" target=_blank>Lab 2-4, 2-5 : digitalRead()</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EWJcaBz7Ji5InmB8bqcAmzEBsC79kJl_pzVBTbHBLPk2Tw?e=jji74W" target=_blank>Lab 2-6 : using millis() instead of delay()</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EcUJb_FGQIROq0EamERKJIIBTxM8L925O2WcUadu6p2gJQ?e=RiHJ6T" target=_blank>Lab 2-7 : read from DHT sensor</a>
   <li /><a href="https://drive.google.com/file/d/1mcoZdOFbVQzNmv2muNxKkd4HlQYDGczw/view?usp=sharing" target=_blank>Lab 2-8 : OLED panel</a>
-  <li /><a href="https://drive.google.com/file/d/1DFPPnipz8EXZUimK2XV_GmBljd3HKwCm/view?usp=sharing" target=_blank>Lab 2-9 : BH1750 light sensor</a>
-  <li /><a href="https://drive.google.com/file/d/1AEexRE5g-Bfo72Cr7K57jzq9dkbocu03/view?usp=sharing" target=_blank>Lab 2-10 : NodeMCU WiFi connection</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EcxxAKPdq2tIsYkkixOG_10BB6eB1c8-tIQLDdeANiHetA?e=t2JOy1" target=_blank>Lab 2-9 : BH1750 light sensor</a>
+  <li /><a href="https://o365ku-my.sharepoint.com/:v:/g/personal/varodom_t_live_ku_th/EbsgTubo0wtPgEyEPGsAR_YBIZHsGhi8qVKdxRKchz45DA?e=0tiWOH" target=_blank>Lab 2-10 : NodeMCU WiFi connection</a>
 
 </ul>
 <br><b>Note : </b>These Arduino programs are originally from chapter 2 of the Practical IoT Design and Implementation book. So the lab numbers have 2- prefix.
