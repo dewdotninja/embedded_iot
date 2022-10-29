@@ -8,11 +8,13 @@
 #include "netpie.h"
 #include "pid.h"
 
-char* ssid = "ningdew";
-char* password = "ningdew827";
-char* mqtt_Client = "ed815a31-5308-4c06-8890-15ccb03ef612";
-char* mqtt_username = "ouxeHPYHTeD84vJmnkAx6uLhncM3kZcE";
-char* mqtt_password = "vz(TW3edc(GPPqxOn4$actO_My4SDOS0";
+// --- fill in your wifi and NETPIE information ----
+char* ssid = "";
+char* password = "";
+char* mqtt_Client = "";
+char* mqtt_username = "";
+char* mqtt_password = "";
+//------------------------------------------------
 
 WiFiClient espClient;
 PubSubClient client(espClient);
