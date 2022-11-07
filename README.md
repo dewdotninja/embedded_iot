@@ -170,6 +170,7 @@ Notebooks from my control_python github
 See workshop 3 for node-red installation
 <ul>
   <li /><a href="https://drive.google.com/file/d/1zmTMS_57E2wfMs9ALXXlJgiSwRbG1t7J/view?usp=sharing">Using node-red with NETPIE 2020 Slides</a>
+  <li /><a href="lag3_pid_nodered.pdf">IoT with node-red</a> (using Lag3-ESP32 board)
   <li /><a href="https://drive.google.com/file/d/1ROtYd5pP_0EniOlQSTy0kbVGyxcLH41W/view?usp=sharing">igr_msgupdate.ino</a>
 </ul>
 
