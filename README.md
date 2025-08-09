@@ -7,12 +7,16 @@
 
 <p />This is a place where IUP students can find materials for my courses on embedded systems and IoT. 
 
-**Note :** The materials were based on course taught on year 2020. Many are outdated and are kept here for reference only. For example, freeboard in NETPIE 2020 is replaced by dashboard.
  
 <ul>
 <li /><b>01205479</b> Internet of Things for Electrical Engineering
   <li /><b>01211421</b> Embedded Systems for Industrial Control 
 </ul>
+
+**Note :** The materials were based on course taught on year 2020. Some are outdated and are kept here for reference only. For example, freeboard in NETPIE 2020 is replaced by dashboard.
+
+For more recent materials, check this repo ["01205479 (2024)"](https://github.com/dewdotninja/eeiot24/) 
+
 
 ## Course materials
 
